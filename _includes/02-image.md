@@ -1,5 +1,1 @@
-this image was taken from the video explaining how to use this feature!
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-check out the rest of videos 
+u can check out other tasks at [GitHub](http://github.com)
